@@ -1,4 +1,4 @@
-package org.example;
+package org.example.PlataformaDeEstudos;
 
 public class PlataformaDeEstudos{
     public static void main(String[] args) {
